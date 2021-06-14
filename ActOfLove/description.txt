@@ -1,1 +1,1 @@
-Act Of Love is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Act Of Love is a Terraria mod that adds the "Act of Love" magic weapon to the game, allowing the user to sacrifice their life at the cost of all of their mana to fire a heart that will fully heal an ally on contact.
